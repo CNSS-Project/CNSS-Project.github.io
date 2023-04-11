@@ -1,2 +1,12 @@
 # CNSS-Project.github.io
-Github Page for Organization
+
+## About
+
+The CNSS Project ....
+
+## Contributors
+
+- Ori Rinat
+- Tom Paz
+- Keren Or
+- Nir Karo
